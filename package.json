@@ -6673,7 +6673,7 @@
                                                         "name": "Sort imports",
                                                         "icon": "selection",
                                                         "type": "command",
-                                                        "command": "python.sortImports"
+                                                        "command": "editor.action.organizeImports"
                                                     }
                                                 ]
                                             },
